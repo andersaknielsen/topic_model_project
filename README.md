@@ -1,6 +1,7 @@
 # BERTopic Topic Modeling Project 👋
 
-Welcome to the BERTopic Topic Modeling Project! This project explores the use of BERTopic for topic modeling.
+Welcome to the BERTopic Topic Modeling Project!  
+This project explores the use of BERTopic for topic modeling.
 
 ## Getting Started
 
@@ -9,7 +10,7 @@ To get started with this project, follow the steps below to set up your environm
 ### Prerequisites
 
 Make sure you have the following installed:
-- [uv](https://github.com/astral-sh/uv)
+- [uv](https://github.com/astral-sh/uv)  
 Text cleaning also makes use of Spacy, so install a requirement for that with `python -m spacy download en_core_web_sm`
 
 ### Installation
@@ -78,6 +79,3 @@ python -m spacy download en_core_web_sm
 
 code .
 ```
-## License
-
-This project is licensed under the MIT License.
